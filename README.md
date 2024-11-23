@@ -1,6 +1,6 @@
-                                                                            [ "Loyalty Scoring and Ranking System" ]
+                                                    [ "Loyalty Scoring and Ranking System" ]
 
-                                                                                              { "Overview" }
+                                                            { "Overview" }
 
 This project focuses on developing a robust loyalty scoring and ranking system designed to analyze and reward user engagement. By leveraging player activity data, the system calculates loyalty scores, segments activities temporally, and generates detailed reports with insights on player rankings and reward distributions.
 
